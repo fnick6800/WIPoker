@@ -1,0 +1,5 @@
+*.apk
+*.sha256
+.env*
+*.jks
+*.keystore

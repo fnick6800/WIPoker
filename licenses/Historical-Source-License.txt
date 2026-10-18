@@ -1,0 +1,77 @@
+WIPoker 源码可见许可 1.0
+WIPoker Source-Available License 1.0
+生效日期：2026-10-13
+项目维护者：fnick6800（https://github.com/fnick6800）
+
+本许可是自定义的限制性使用许可，不是 OSI 认可的开源许可证。
+除以下明确授予的权限外，相关权利人保留全部权利。
+
+1. 适用范围
+
+“本项目内容”指由 WIPoker 项目权利人依法享有并有权授权的代码、文档及
+原创素材。“许可方”指对相应内容依法有权授权的 WIPoker 项目权利人。
+第三方依赖、第三方素材、公有领域内容及另有许可的内容不适用本许可的
+附加限制；其使用遵循各自的许可。详见 THIRD_PARTY_NOTICES.md。
+本许可不主张对不受著作权保护的内容、思想或游戏规则享有专有权。
+
+2. 允许的使用
+
+在遵守本许可并保留原有版权、来源及许可声明的前提下，允许：
+（1）查看、下载和研究源码，用于个人、非商业的学习和评估；
+（2）在自己控制的设备上，出于个人非商业目的编译、运行及私下修改；
+（3）从维护者的正式发布渠道取得安装包，供个人免费游玩；
+（4）向原项目提交问题报告、修改建议及补丁；
+（5）在 GitHub 服务条款要求的范围内，使用 GitHub 的查看及 Fork 功能。
+     Fork 应保留来源和许可声明，不得被宣传为独立发行版。
+
+以上不授予将完整项目或其衍生产品另行发布、运营或商业化的权限。
+正常分享原仓库或维护者正式发布页面的链接不属于重新分发，予以允许。
+
+3. 未经许可方另行书面授权，禁止
+
+（1）重新打包、换名、换图标、换签名、套壳、移植或修改后对外发行；
+（2）在应用商店、下载站、网盘、其他仓库或其他渠道重新分发安装包、
+     可执行程序、网页游戏或项目衍生产品，无论免费还是收费；
+（3）除第 2 条允许的 GitHub Fork 和向原项目提交补丁外，重新分发本项目
+     受本许可约束的源码、实质部分或修改版；
+（4）出售、出租、付费下载、会员收费、订阅、付费解锁、游戏内收费、
+     广告变现，或将本项目作为收费服务、商业产品或商业交付的一部分；
+（5）将本项目或其修改版部署为向公众提供的在线游戏或托管服务；
+（6）删除或伪造版权、作者、许可及来源声明，冒充原作者或官方发行方，
+     或暗示取得实际上不存在的认可、合作或背书。
+
+本许可不授予使用 WIPoker 名称、标志或其他标识开展独立发行或商业推广
+的权利；为如实说明来源而作必要引用除外。
+
+4. 第三方权利及法定权利
+
+本许可不能撤销或限制第三方已经授予的权利，也不能覆盖第三方许可义务。
+例如，单独使用原本采用 CC0、Apache、LGPL 或其他许可的第三方内容时，
+应按其原许可判断权限，不得把本许可视为对这些内容的新限制。
+本许可不限制适用法律规定且不能通过合同排除的权利，也不否定 GitHub
+服务条款要求授予的平台内权限。
+
+5. 额外授权
+
+需要对外发行、商业使用或其他超出第 2 条的用途，应事先取得相关权利人
+的书面授权。公开可见、能够下载或能够 Fork 不等于获得这些额外授权。
+维护者对自己的内容保留另行授权的权利，第三方内容仍需遵守其原许可。
+
+6. 违约与责任
+
+违反本许可时，本许可授予的权限终止；应停止未经授权的使用及分发。
+法律规定的权利、第三方独立许可及 GitHub 平台权限按各自依据处理。
+在适用法律允许的范围内，本项目按现状提供，不作任何明示或默示担保；
+许可方不对使用本项目造成的损失承担责任。
+
+7. English summary (informational; the Chinese terms above govern)
+
+This is source-available software, not OSI-approved open-source software.
+Personal, noncommercial study, local builds, private modifications, personal
+play, and contributions to the original project are permitted. GitHub viewing
+and forking rights required by its Terms of Service are preserved.
+Without separate written permission, do not repackage, rebrand, redistribute
+builds or derivative products (even for free), publicly host the game, sell it,
+charge for access, monetize it with advertisements, or include it in commercial
+products or services. Do not misrepresent authorship or official affiliation.
+Third-party materials retain their own licenses. Statutory rights are unaffected.

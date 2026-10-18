@@ -1,0 +1,27 @@
+{
+  "project": "SVG-cards",
+  "authors": [
+    "David Bellot",
+    "Huub de Beer"
+  ],
+  "source": "https://github.com/htdebeer/SVG-cards",
+  "revision": "6d88bf9c594997b82bc5668ab0877a4e9b717665",
+  "sourceSha256": "1649cce8d929fed787851d581b0bd3b864e490b4205af0b5dea5b9e88d721bbb",
+  "license": "LGPL-2.1",
+  "modifications": [
+    "Extracted complete joker_full artwork with all referenced vector definitions; removed full-card frame and text because shared card supplies corner indices.",
+    "Black Joker uses static grayscale colors; red Joker retains source colors. No body geometry is cropped or reillustrated."
+  ],
+  "assets": [
+    {
+      "file": "joker-red.svg",
+      "sha256": "d2a37ade7368685257258c3f67de199e5fdcf3209477c578ad9104fe277b767e",
+      "bytes": 41877
+    },
+    {
+      "file": "joker-black.svg",
+      "sha256": "8962fa4b142e2192899e9c83eea210365c47006a5a21dccaf7b81ef7e3203989",
+      "bytes": 41877
+    }
+  ]
+}

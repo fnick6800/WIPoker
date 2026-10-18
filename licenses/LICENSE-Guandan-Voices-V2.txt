@@ -1,0 +1,52 @@
+WIPoker Guandan voice assets, v2 (2026-10-02)
+
+Locally synthesized fixed phrases with Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice.
+Official model card: https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice
+Official inference implementation: https://github.com/QwenLM/Qwen3-TTS
+The code and model card identify Apache-2.0. Full code license is distributed
+as LICENSE-Qwen3-TTS-Apache-2.0.txt. No added output noncommercial restriction
+was found in the reviewed model card. Model licensing is not a claim of
+exclusive copyright in the synthetic output or separate actor releases.
+
+Official model revision checked: 0c0e3051f131929182e2c023b9537f8b1c68adfe
+Local main weights SHA256 (matches official LFS metadata):
+38b1d5971bdbd982b561cccec982669a53b0537c3cf5e9bd4778ed07bb2f5137
+Embedded speech tokenizer weights SHA256 (matches official LFS metadata):
+836b7b357f5ea43e889936a3709af68dfe3751881acefe4ecf0dbd30ba571258
+Runtime qwen-tts 0.1.1. No cloud service, paid account or API key was used.
+Existing DesktopAI model files were read without changing that environment.
+Models, inference runtime and Python are excluded from the Android game.
+
+Four predefined bases produce six instruction styles:
+f1 Vivian, f2 Serena, f3 Serena with a mature/lower/rougher style target;
+m1 Dylan, m2 Dylan with a bolder/mid-low style target, m3 Uncle_Fu.
+These are not six independent trained speakers. No audio pitch shifting,
+speaker blending or reference-person voice cloning is performed.
+Style and emotion instructions are synthesis targets, not auditory acceptance.
+
+Each clip has its own semantics/intensity and pronunciation instructions.
+Qwen exposes text plus instruction, not hard IPA/pinyin phoneme conditioning.
+The separate audited Kokoro token dictionary is a fallback/audit reference;
+it is not passed as phoneme input to Qwen. ASR cannot establish tone correctness.
+AAC-LC mono 32 kHz 64 kbps, measured loudness/peak finishing and pitch-preserving
+time-stretch correction are recorded in guandan-voices-v2.json.
+
+The original 700 Kokoro assets and original manifest remain as a rollback.
+
+WIPoker v2.1 expansion (2026-10-02)
+Official models additionally used:
+https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign
+https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base
+VoiceDesign revision: 5ecdb67327fd37bb2e042aab12ff7391903235d3
+Base revision: fd4b254389122332181a7c3db7f27e918eec64e3
+Both official model cards identify Apache-2.0. See the accompanying full license.
+Twelve new reference voices were synthesized from fictional age/personality
+instructions, then reused unchanged for each identity through Base voice cloning.
+No human reference recordings, celebrity imitation, pitch shifting or speaker
+vector blends were used. Four predefined bases plus twelve designed identities
+produce eighteen style IDs; these are not eighteen independent trained speakers.
+Original six styles support per-clip CustomVoice instructions. New Base clips use
+fixed designed references and text punctuation; Base does not expose the same
+per-clip instruction interface. Style, age, emotion and pronunciation are targets,
+not verified subjective acceptance. All final compressed files have hashes and
+objective decoding/loudness measurements in guandan-voices-v2.json.

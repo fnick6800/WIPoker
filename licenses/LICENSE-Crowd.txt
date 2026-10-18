@@ -1,0 +1,14 @@
+Crowd reactions (v1.6)
+Win: Cheers — AuraVoice / Nocturnal_Vanguard, CC0.
+https://opengameart.org/content/cheers-0
+Loss: crowd `oh - - disappointed.mp3 — mrrap4food, CC0.
+https://freesound.org/people/mrrap4food/sounds/619007/
+Public high-quality preview: https://cdn.freesound.org/previews/619/619007_781461-hq.mp3
+License verified 2026-10-01. Trimmed, filtered, normalized, faded to mono PCM 24 kHz.
+Three playback intensity levels share these short human recordings, with no voice pitch shift.
+
+Additional variations (v2.18), CC0-1.0:
+Well Done — qubodup: https://opengameart.org/content/well-done
+Crowd cheer.wav — BeeProductive: https://freesound.org/people/BeeProductive/sounds/430046/
+Crowd Sigh In Disappointment — Shane Vincent / ShangusBurger and GameSoundCon 2024 voice talent: https://freesound.org/people/ShangusBurger/sounds/764106/
+Trimmed, filtered, level matched and faded; no pitch shift. Original downloads and SHA-256 receipts retained in the project.
