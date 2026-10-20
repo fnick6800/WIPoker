@@ -1,26 +1,45 @@
-# WIPoker · Offline Poker (Optional Multiplayer)
+# WIPoker · Offline Poker for Android (Optional Multiplayer)
 
-### 单机扑克游戏（可联网）
+**English** · [简体中文](README.zh-CN.md)
 
-[简体中文](README.md) · [**Download Android APK**](https://github.com/fnick6800/WIPoker/releases/latest) · [Feedback](https://github.com/fnick6800/WIPoker/issues)
+[**Download Android APK →**](https://github.com/fnick6800/WIPoker/releases/latest) · [Get started](#get-started) · [Feedback](https://github.com/fnick6800/WIPoker/issues)
 
-**A great game. No internet needed.**
+**A table for every trip. Play at your own pace.**
 
-WIPoker is a growing **card-game platform built around immersive offline single-player play**. Texas Hold'em and Guandan, a four-player partnership game, are available now. More card games are planned around a shared table experience, characters and player progression.
+Play **Texas Hold'em and Guandan** against computer opponents, with animated cards and chips, character reactions and an immersive table atmosphere. Start on your own whenever you like; invite friends over Wi-Fi or a phone hotspot when you want company.
 
-Play against computer opponents with distinct styles, without internet or waiting for other players. Animated cards and chips, character reactions, sound and the pace of each hand bring the table to life.
+Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-profit sharing
 
 ![A great game. No internet needed.](images/01-offline.png)
+
+## Get started
+
+1. Open the [latest release](https://github.com/fnick6800/WIPoker/releases/latest), expand **Assets** and download the `.apk` file.
+2. Install it on your Android device, then choose **Texas Hold'em** or **Guandan** in the lobby.
+3. Play against the computer offline, or create a table for friends on the same Wi-Fi or phone hotspot.
+
+**Updating? Install over your existing app to keep local saves. Do not uninstall first.** The “Source code” ZIP files are documentation, not the Android game.
 
 ## Your own table, wherever you are
 
 Enjoy a full game on a flight, on a trip or whenever you're offline. Games and progress are saved locally, so you can return at your own pace. Hold'em supports portrait and landscape layouts; Guandan uses a portrait table with touch-based sorting and play.
 
+### Why I built WIPoker
+
+I wanted a simple, relaxing poker game on Android: something I could open during a journey, a flight or a quiet break, without needing an internet connection or a group of players. WIPoker grew out of that wish.
+
+It is a personal, non-profit project, shared free of charge. The focus is enjoying the cards and the atmosphere of the table, with virtual chips and no real-money deposits or withdrawals. Play alone first; bring friends along when you feel like it.
+
 ## One table experience. More card games to come.
 
-WIPoker provides a common foundation for an expanding collection of card games. New modes will build on familiar characters, table interactions and account progression while retaining their own rules and pace.
+WIPoker is a growing **card-game platform**. New modes will build on familiar characters, table interactions and account progression while retaining their own rules and pace.
 
-**Available now: Texas Hold'em and Guandan. More card games are planned.** Details and timing will be announced in future updates.
+| Available game | What to expect |
+| --- | --- |
+| **Texas Hold'em** | Poker against computer opponents, with portrait and landscape layouts |
+| **Guandan** | A four-player partnership card game, with AI opponents and teammates, a portrait table and touch-based card sorting |
+
+**More card games are planned.** Details and timing will be announced in future updates.
 
 ![One table experience. More card games to come.](images/02-platform.png)
 
@@ -46,19 +65,24 @@ Optional single-player hand information, estimated win probability and move expl
 
 ![Play and chat. Feel at the same table.](images/04-chat.png)
 
-## Download and use
+## Useful details
 
-- Android 7.0 or later. Open the [latest release](https://github.com/fnick6800/WIPoker/releases/latest) and download the APK under **Assets**.
-- Install updates over the app signed by the same maintainer to retain local saves; do not uninstall first.
 - The international edition supports Simplified Chinese and English in **Settings → Language / 语言**. Recorded character voices retain their original language; names and chat are not automatically translated. Check individual release notes for older packages.
 - Free, non-profit sharing. Virtual chips only, with no real-money deposits or withdrawals.
 
-**Star** the project to follow updates, share its official download page, or report issues with your device, app version and reproduction steps.
+## Help shape the next table
 
-## About this repository
+Enjoying WIPoker? **Star this repository** to bookmark it and support the project, or share the official download page with friends. To receive release notifications, use **Watch → Custom → Releases** on GitHub.
+
+[Report a bug or suggest a card game](https://github.com/fnick6800/WIPoker/issues). For bugs, include your device, app version and reproduction steps.
+
+<details>
+<summary>About this repository and permissions</summary>
 
 This is the **official product information and APK distribution repository**. It contains documentation, promotional material, release notes and downloadable packages, not the game's source code. GitHub's automatic “Source code” archives contain only this distribution repository's documents and assets.
 
 Personal free play and sharing official links are welcome. Repackaging, reskin releases or commercialization require permission. See [Usage](USAGE.md) and [Third-party notices](THIRD_PARTY_NOTICES.md).
 
-Promotional images use real game screenshots with AI-assisted layout. [Original captures and provenance](images/README.md) are provided separately. Screenshots and emulator checks do not establish physical-device or real-network acceptance.
+</details>
+
+Promotional images use real game screenshots with AI-assisted layout. [Original captures and provenance](images/README.md) are provided separately.
