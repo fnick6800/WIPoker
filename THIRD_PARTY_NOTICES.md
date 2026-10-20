@@ -11,3 +11,9 @@ Third-party components retain their own licenses. The notices and editable artwo
 - Joker 素材: [LGPL-2.1](licenses/jokers/LICENSE-LGPL-2.1.txt)、[作者](licenses/jokers/AUTHORS.txt)、[来源与修改记录](licenses/jokers/README.txt)。此目录的两份 SVG 是随包素材的可编辑原件，仅为第三方素材许可保留，不包含游戏实现。
 - Kenney 与其他音效: [Casino](licenses/LICENSE-Kenney-Casino.txt)、[Impact](licenses/LICENSE-Kenney-Impact.txt)、[Cheers](licenses/LICENSE-Cheers.txt)、[Crowd](licenses/LICENSE-Crowd.txt)。
 - 合成语音: [来源说明](licenses/LICENSE-Guandan-Voices-V2.txt)、[Kokoro](licenses/LICENSE-Kokoro-Apache-2.0.txt)、[Qwen3-TTS](licenses/LICENSE-Qwen3-TTS-Apache-2.0.txt)。
+
+## Guandan strategy attribution
+
+The Guandan strategy is adapted from SEU lalala (Duofeng Wu), distributed through the [NJUPT competition code listing](https://gameai.njupt.edu.cn/gameaicompetition/guandan_machine_code/index.html). WIPoker ports the strategy to JavaScript, adapts the game protocol and makes local card-grouping, straight-flush and integration fixes. This does not imply endorsement by the author or competition organizers. No explicit redistribution license was found in the downloaded competition archive; this attribution does not assign a license to that source.
+
+The Python-to-JavaScript runtime uses [Transcrypt](https://github.com/QQuick/Transcrypt); its license notice is included in [licenses/Transcrypt-Apache-2.0.txt](licenses/Transcrypt-Apache-2.0.txt).
