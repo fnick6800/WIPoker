@@ -14,6 +14,10 @@ Android 7.0 及以上 · 离线单机 · 可选局域网联机 · 免费非营�
 
 ![没有网络，也有好牌局 / A great game. No internet needed.](images/01-offline.png)
 
+## 最新更新
+
+[v5.7 更新说明](releases/v5.7-INTL.md)：优化掼蛋出牌与收牌动画、补充收牌音效，并缩短可可对子播报的停顿。
+
 ## 快速开始
 
 1. 打开[最新发布页](https://github.com/fnick6800/WIPoker/releases/latest)，展开 **Assets / 资源**，下载 `.apk` 安装包。
