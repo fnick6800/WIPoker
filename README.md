@@ -14,7 +14,7 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ## Latest update
 
-[v5.7 release notes](releases/v5.7-INTL.md): Guandan animation optimizations, card-gathering sounds, and shorter pauses in Keke’s pair announcements.
+[v5.8 release notes](releases/v5.8-INTL.md): Improved Guandan endgame cooperation, including full-house plays that should leave a near-finished partner in control.
 
 ## Get started
 
