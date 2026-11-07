@@ -14,7 +14,7 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ## Latest update
 
-[v5.8 release notes](releases/v5.8-INTL.md): Improved Guandan endgame cooperation, including full-house plays that should leave a near-finished partner in control.
+[v5.9 release notes](releases/v5.9-INTL.md): Guandan partners give you room to finish and can contest the trick if an opponent takes over.
 
 ## Get started
 
