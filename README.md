@@ -14,7 +14,7 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ## Latest update
 
-[v5.9 release notes](releases/v5.9-INTL.md): Guandan partners give you room to finish and can contest the trick if an opponent takes over.
+[v5.10 release notes](releases/v5.10-INTL.md): Choose a card-call voice from a compact dropdown. Guandan auto-play continues between rounds, and pair announcements have shorter pauses.
 
 ## Get started
 
