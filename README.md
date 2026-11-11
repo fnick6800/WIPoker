@@ -14,7 +14,7 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ## Latest update
 
-[v5.10 release notes](releases/v5.10-INTL.md): Choose a card-call voice from a compact dropdown. Guandan auto-play continues between rounds, and pair announcements have shorter pauses.
+[v5.11 release notes](releases/v5.11-INTL.md): Preview and select Guandan voices in a dropdown that opens directly inside your profile or the first-time voice guide.
 
 ## Get started
 
