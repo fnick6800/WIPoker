@@ -14,7 +14,7 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ## Latest update
 
-[v5.11 release notes](releases/v5.11-INTL.md): Preview and select Guandan voices in a dropdown that opens directly inside your profile or the first-time voice guide.
+Computer players now recognize partner straights from every seat and can save their bomb for an opponent. [v5.12 release notes](releases/v5.12-INTL.md)
 
 ## Get started
 
