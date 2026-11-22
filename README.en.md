@@ -12,6 +12,10 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ![A great game. No internet needed.](images/01-offline.png)
 
+## Latest update
+
+A clearer Guandan table on unfolded foldables and tablets: the central card pile stays clear of played cards. [Release notes](releases/v5.13-INTL.md)
+
 ## Get started
 
 1. Open the [latest release](https://github.com/fnick6800/WIPoker/releases/latest), expand **Assets** and download the `.apk` file.

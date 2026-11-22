@@ -14,7 +14,7 @@ Android 7.0+ · Offline single-player · Optional LAN multiplayer · Free, non-p
 
 ## Latest update
 
-Computer players now recognize partner straights from every seat and can save their bomb for an opponent. [v5.12 release notes](releases/v5.12-INTL.md)
+A clearer Guandan table on unfolded foldables and tablets: the central card pile stays clear of played cards. [Release notes](releases/v5.13-INTL.md)
 
 ## Get started
 
